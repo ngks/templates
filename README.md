@@ -1,2 +1,2 @@
 # templates
-Small templates for daily uses.
+Small templates for universal dev needs.
